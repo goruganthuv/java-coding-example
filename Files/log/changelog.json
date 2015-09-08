@@ -1,0 +1,15 @@
+{
+   "timestamp": "09/08/2015 11:02:04",
+   "customer.id[1].name": {
+      "old_value": "Lavanya",
+      "new_value": "Lavanya Akella"
+      }
+   }{
+   "timestamp": "09/08/2015 11:02:18",
+   "customer.id[2].name": {"new_value": "Sagar"},
+   "customer.id[2].address": {"new_value": "Goodie street"}
+   }{
+   "timestamp": "09/08/2015 11:03:14",
+   "customer.id[2].name": {"old_value": "Sagar"},
+   "customer.id[2].address": {"old_value": "Goodie street"}
+   }
