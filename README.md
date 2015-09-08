@@ -11,6 +11,7 @@ There are two files on the filesystem.
 A user can just edit the customer.xml file anytime they want and change it. This program detects the change and logs what changed to changelog.json.
 
 ### The following libraries have been used:
+* Java NIO2 for polling filesystem for file change events
 * JAXB: For converting XML file data into object list that can be compared between files
 * Apache Sling JSON: For writing JSON log files
 
